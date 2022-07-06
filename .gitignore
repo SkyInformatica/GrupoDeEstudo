@@ -1,0 +1,9 @@
+# Aceita apenas arquivos md e gitignore
+
+!.gitignore
+!*.md
+
+# Diretório temporario
+
+# Ignorar pastas criadas pelas IDE's
+*.vs
