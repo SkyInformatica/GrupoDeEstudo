@@ -1,4 +1,4 @@
-# Tutoriais
+# Grupo de estudo
 
 ## Descrição
 Repositorio direcionado à compartilhamento de materiais de estudo sobre tecnologias da informação.
@@ -6,4 +6,4 @@ Repositorio direcionado à compartilhamento de materiais de estudo sobre tecnolo
 ## Áreas
 
 * Operações
-    * [Docker](https://github.com/SkyInformatica/estudo/tree/main/Docker)
+    * [Docker](https://github.com/SkyInformatica/GrupoDeEstudo/tree/main/Docker)
