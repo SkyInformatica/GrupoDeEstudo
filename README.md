@@ -7,3 +7,5 @@ Repositorio direcionado à compartilhamento de materiais de estudo sobre tecnolo
 
 * Operações
     * [Docker](https://github.com/SkyInformatica/GrupoDeEstudo/tree/main/Docker)
+ 
+    * [Índices no RavenDB](https://docs.google.com/document/d/1d51w4nBpuA9AGReZPjoH9qHo6a7VTMB7LVJPFZhqIiI/edit?usp=sharing)
